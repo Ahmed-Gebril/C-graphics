@@ -6,3 +6,4 @@ and finds calculates which triangle has a larger area.
 
 Modules used are C Graphics library.
 Random Generator of Numbers
+![Alt text] (https://github.com/Ahmed-Gebril/C-graphics/blob/master/polygan.PNG)
